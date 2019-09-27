@@ -35,7 +35,7 @@ public class BallController : MonoBehaviour
     void AddForwardForce()
     {
         
-        BallRigidbody.AddForce(transform.forward * forwardForce * Random.Range(-1f, 1f));
+        BallRigidbody.AddForce(transform.forward * forwardForce * Random.Range(-1f, 1f)); //maybe give the player the ability to change forward force to have some control over the ball to get it to a goal
     }
 
     private void OnCollisionEnter(Collision collision)

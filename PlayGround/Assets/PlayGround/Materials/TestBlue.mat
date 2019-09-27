@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: TestBlue
-  m_Shader: {fileID: -6465566751694194690, guid: 5967c9847d3ca1f4cb25bc47b5affdf6,
+  m_Shader: {fileID: -6465566751694194690, guid: 335678a1e2c41714f8c9e1743a4af241,
     type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
@@ -71,7 +71,10 @@ Material:
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
-    - Color_C21018AC: {r: 0.089044146, g: 0.107228674, b: 0.6509434, a: 0}
+    - Color_1E5A764F: {r: 0.6466284, g: 0.62419903, b: 0.7830189, a: 0}
+    - Color_C21018AC: {r: 0.35116303, g: 0.09019608, b: 0.6509804, a: 0}
+    - Color_D1ED0C76: {r: 0, g: 0, b: 0, a: 0}
+    - Color_DF6240BC: {r: 0.8301887, g: 0.82417303, b: 0.7244571, a: 0}
     - _BaseColor: {r: 0.3485226, g: 0.41848636, b: 0.8301887, a: 1}
     - _Color: {r: 0.5, g: 0.5, b: 0.5, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
